@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**kristenlc/kristenlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# kristenlc
 
-Here are some ideas to get you started:
+Tech enthusiast and full stack developer with a background in penetration testing and cyber security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to my profile!
+
+#### Languages
+- 👀 I’m interested in Java, C#, C++, Objective-C, Swift, JavaScript, PHP, and MySQL 3
+- 📖 I’m currently learning Python but it is not ever to be used in any of my projects
+
+#### Projects
+- 🔒 I mostly do private projects which get open-sourced under [GNU Affero General Public License version 3](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) after a security analysis
+- 📫 How to reach me: admin@kristen.lc
+- Pronouns: she/her
