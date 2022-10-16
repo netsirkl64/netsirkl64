@@ -14,3 +14,6 @@ Tech enthusiast and full stack developer with a background in penetration testin
 - 🔒 I mostly do private projects which get open-sourced under [GNU Affero General Public License version 3](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) after a security analysis
 - 📫 How to reach me: admin@kristen.lc
 - Pronouns: she/her
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
