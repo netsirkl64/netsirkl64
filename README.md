@@ -16,6 +16,19 @@ Tech enthusiast and full stack developer with a background in penetration testin
 - Pronouns: she/her
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/10/2022 18:05:11 UTC
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+Java                     28 mins             █████████████████████████   100.0%
+
+🔥 Editors: 
+Eclipse                  28 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 17/10/2022 12:52:23 UTC
 <!--END_SECTION:waka-->
