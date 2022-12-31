@@ -22,13 +22,13 @@ Tech enthusiast and full stack developer with a background in penetration testin
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     24 mins             █████████████████████████   100.0%
+Java                     18 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  24 mins             █████████████████████████   100.0%
+Eclipse                  18 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/12/2022 12:29:14 UTC
+ Last Updated on 31/12/2022 12:28:19 UTC
 <!--END_SECTION:waka-->
